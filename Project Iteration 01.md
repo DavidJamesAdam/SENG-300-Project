@@ -1,4 +1,4 @@
-<h1>__Due November 05, 11:59PM__</h1>
+<h1>***Due November 05, 11:59PM***</h1>
 
 <h3>Requirements</h3>
 Must develope control software on top of the code provided (_com.diy.hardware_0.2_) for the following cases:
