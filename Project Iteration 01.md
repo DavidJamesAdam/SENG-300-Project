@@ -1,7 +1,7 @@
-<h1>___Due November 05, 11:59PM___</h1>
+<h1> ___Due November 05, 11:59PM___ </h1>
 
 <h3>Requirements</h3>
-Must develope control software on top of the code provided (_com.diy.hardware_0.2_) for the following cases:
+Must develope control software on top of the code provided ( _com.diy.hardware_0.2_ ) for the following cases:
 
 > 1. Add item by scanning [before payment begins]
 > 2. Pay by credit card
